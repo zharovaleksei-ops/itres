@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ИТС — Информационные технологии и системы связи</title>
+  <meta name="description" content="ИТС: системная интеграция, сети связи, СКС, видеонаблюдение, структурированная документация. Обновлённый сайт на основе архива старого сайта itres.">
+  <link rel="canonical" href="https://itres.example/ ">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <!-- шрифты: self-hosted в проде; здесь системный стек + опциональный Inter -->
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="assets/style.css">
+  <script src="assets/main.js" defer></script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="logo" href="index.html">IT<em>RES</em> · ИТС</a>
+    <nav class="main-nav" aria-label="Главное меню">
+      <a href="#services" aria-current="">Услуги</a>
+      <a href="#about">Об организации</a>
+      <a href="docs/company.html">Документы</a>
+      <a href="privacy.html">Политика</a>
+      <a href="#contacts">Контакты</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="hero wrap">
+    <span class="tag">с 1996 · информационно-телекоммуникационные системы</span>
+    <h1>Телеком и&nbsp;ИТ&#8209;инфраструктура без&nbsp;лишнего веса</h1>
+    <p class="lead">Проектируем и строим сети связи, СКС и центры обработки данных,
+      внедряем системы видеонаблюдения и диспетчеризации. Этот сайт — современная
+      редакция архива старого сайта: та же информация, легче, быстрее, доступнее.</p>
+    <a class="btn" href="#services">Смотреть услуги</a>
+    <a class="btn secondary" href="docs/company.html">Документы компании</a>
+
+    <div class="notice">
+      ⚠️ Сайт находится в стадии наполнения из архива старого сайта. Часть страниц
+      переносится постепенно; ссылки на старые материалы ведут в раздел «Документы».
+    </div>
+  </section>
+
+  <section id="services" class="wrap reveal">
+    <h2>Что делаем</h2>
+    <div class="bento">
+      <article class="card wide">
+        <picture>
+          <source srcset="assets/img/network.avif" type="image/avif">
+          <source srcset="assets/img/network.webp" type="image/webp">
+          <img src="assets/img/network.png" alt="Монтаж структурированной кабельной системы в серверной" width="1920" height="1280" loading="lazy" decoding="async">
+        </picture>
+        <h3>Сети и СКС</h3>
+        <p>Проектирование, монтаж и сертификация структурированных кабельных систем,
+        магистральные каналы связи, резервирование.</p>
+      </article>
+      <article class="card">
+        <div class="num">25+</div>
+        <h3>Лет на рынке телекома</h3>
+        <p>Опыт от АТС до современных ЦОД — перенесён из архива old-site.</p>
+      </article>
+      <article class="card">
+        <div class="num">−70%</div>
+        <h3>Вес страниц</h3>
+        <p>Картинки обработаны optimize_images.py: WebP/AVIF, ресайз, удаление EXIF/GPS.</p>
+      </article>
+      <article class="card">
+        <h3>Видеонаблюдение и СКУП</h3>
+        <p>IP-камеры, хранение архива, интеграция с СКУД и диспетчеризацией.</p>
+      </article>
+      <article class="card">
+        <h3>ЦОД и серверные</h3>
+        <p>Инженерные системы: охлаждение, ИБП, мониторинг, защита от НД.</p>
+      </article>
+    </div>
+  </section>
+
+  <section id="about" class="block wrap reveal">
+    <h2>Об организации</h2>
+    <ul class="clean">
+      <li><strong>Профиль:</strong> информационно-телекоммуникационные системы и связь (перенос со старой страницы «О нас»).</li>
+      <li><strong>Лицензии:</strong> лицензия Роскомнадзора на телерадиовещательную и связь-деятельность — сканы в <a href="docs/company.html">docs</a> и сборнике <a href="dist/pdf/documents.pdf">PDF</a>.</li>
+      <li><strong>Архив:</strong> исходные страницы старого сайта сохранены в ветке <code>Загрузил-файлы-страницы-от-старого-сайта</code>.</li>
+    </ul>
+  </section>
+
+  <section id="contacts" class="block wrap reveal">
+    <h2>Контакты</h2>
+    <ul class="clean">
+      <li>Телефон: <a href="tel:+70000000000">+7 (000) 000-00-00</a> *(уточнить из архива)*</li>
+      <li>E-mail: <a href="mailto:info@itres.example">info@itres.example</a> *(уточнить из архива)*</li>
+      <li>Ответственный за ПДн: <a href="mailto:pdn@itres.example">pdn@itres.example</a></li>
+    </ul>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <h4>Навигация</h4>
+        <ul>
+          <li><a href="#services">Услуги</a></li>
+          <li><a href="docs/company.html">Документы (PDF-сборник)</a></li>
+          <li><a href="sitemap.html">Карта сайта</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Правовая информация</h4>
+        <ul>
+          <li><a href="privacy.html">Политика конфиденциальности (152-ФЗ)</a></li>
+          <li><a href="cookie-policy.html">Пользовательское соглашение об обработке cookie-файлов</a></li>
+          <li><a href="personal-data.html">Обработка и защита персональных данных</a></li>
+          <li><a href="#" data-open-cookie-settings>Изменить настройки cookie</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Оператор ПДн</h4>
+        <p>ООО «ИТС» (itres), ИНН 0000000000, адрес: уточняется из архива.<br>
+        Уведомление о ведении реестра операций обработкой ПДн подано в РКН (№ 00000000).</p>
+      </div>
+    </div>
+    <div class="legal">
+      <p>© 1996–2026 ИТС. Все права защищены. Site built from the old-site archive branch.</p>
+    </div>
+  </div>
+</footer>
+
+<!-- Cookie-баннер: согласие ДО установки несущественных файлов (149-ФЗ ст.10.1-2, 152-ФЗ, разъяснения РКН) -->
+<div id="cookie-banner" class="cookie-banner" role="dialog" aria-modal="false"
+     aria-labelledby="cookie-title" hidden>
+  <strong id="cookie-title">Файлы cookie</strong>
+  <p>Сайт использует файлы cookie. Необходимые обеспечивают работу сайта; аналитические и
+     маркетинговые включаются только с вашего согласия и передают данные оператору.
+     Подробнее — в <a href="cookie-policy.html">соглашении об обработке cookie</a> и
+     <a href="privacy.html">политике конфиденциальности</a>.</p>
+  <div id="cookie-details" hidden>
+    <label><input type="checkbox" checked disabled> Необходимые (всегда)</label><br>
+    <label><input type="checkbox" id="cookie-analytics"> Аналитика и статистика посещений</label><br>
+    <label><input type="checkbox" id="cookie-marketing"> Рекламные и сторонние сервисы</label>
+  </div>
+  <div class="row">
+    <button class="cookie-btn accept" id="cookie-accept">Принять все</button>
+    <button class="cookie-btn reject" id="cookie-reject">Только необходимые</button>
+    <button class="cookie-btn settings" id="cookie-settings">Настроить</button>
+  </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,73 @@
+{
+  "processed": 2,
+  "skipped": 4,
+  "total_src_kb": 630,
+  "total_dst_kb": 630,
+  "saved_pct": 0.0,
+  "images": [
+    {
+      "src": "site/assets/img/hero-bg.jpg",
+      "dst": "",
+      "src_bytes": 340504,
+      "dst_bytes": 0,
+      "skipped": "производный формат — создан из исходника",
+      "outputs": {},
+      "saved_pct": 0.0
+    },
+    {
+      "src": "site/assets/img/hero-bg.png",
+      "dst": "site/assets/img/hero-bg.png",
+      "src_bytes": 252030,
+      "dst_bytes": 252030,
+      "skipped": "",
+      "outputs": {
+        "main": "hero-bg.png (пережатие не выгоднее оригинала)",
+        "webp": "пропущен (тяжелее оригинала)",
+        "avif": "пропущен (тяжелее оригинала)",
+        "lqip": "hero-bg.lqip.txt"
+      },
+      "saved_pct": 0.0
+    },
+    {
+      "src": "site/assets/img/hero-bg.webp",
+      "dst": "",
+      "src_bytes": 228662,
+      "dst_bytes": 0,
+      "skipped": "производный формат — создан из исходника",
+      "outputs": {},
+      "saved_pct": 0.0
+    },
+    {
+      "src": "site/assets/img/network.jpg",
+      "dst": "",
+      "src_bytes": 382944,
+      "dst_bytes": 0,
+      "skipped": "производный формат — создан из исходника",
+      "outputs": {},
+      "saved_pct": 0.0
+    },
+    {
+      "src": "site/assets/img/network.png",
+      "dst": "site/assets/img/network.png",
+      "src_bytes": 393258,
+      "dst_bytes": 393258,
+      "skipped": "",
+      "outputs": {
+        "main": "network.png (пережатие не выгоднее оригинала)",
+        "webp": "пропущен (тяжелее оригинала)",
+        "avif": "пропущен (тяжелее оригинала)",
+        "lqip": "network.lqip.txt"
+      },
+      "saved_pct": 0.0
+    },
+    {
+      "src": "site/assets/img/network.webp",
+      "dst": "",
+      "src_bytes": 268828,
+      "dst_bytes": 0,
+      "skipped": "производный формат — создан из исходника",
+      "outputs": {},
+      "saved_pct": 0.0
+    }
+  ]
+}

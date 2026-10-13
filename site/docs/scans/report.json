@@ -1,0 +1,41 @@
+{
+  "processed": 1,
+  "skipped": 2,
+  "total_src_kb": 37,
+  "total_dst_kb": 37,
+  "saved_pct": 0.0,
+  "images": [
+    {
+      "src": "site/docs/scans/license-scan.jpg",
+      "dst": "",
+      "src_bytes": 36655,
+      "dst_bytes": 0,
+      "skipped": "производный формат — создан из исходника",
+      "outputs": {},
+      "saved_pct": 0.0
+    },
+    {
+      "src": "site/docs/scans/license-scan.png",
+      "dst": "site/docs/scans/license-scan.png",
+      "src_bytes": 37905,
+      "dst_bytes": 37905,
+      "skipped": "",
+      "outputs": {
+        "main": "license-scan.png (пережатие не выгоднее оригинала)",
+        "webp": "пропущен (тяжелее оригинала)",
+        "avif": "пропущен (тяжелее оригинала)",
+        "lqip": "license-scan.lqip.txt"
+      },
+      "saved_pct": 0.0
+    },
+    {
+      "src": "site/docs/scans/license-scan.webp",
+      "dst": "",
+      "src_bytes": 11224,
+      "dst_bytes": 0,
+      "skipped": "производный формат — создан из исходника",
+      "outputs": {},
+      "saved_pct": 0.0
+    }
+  ]
+}
