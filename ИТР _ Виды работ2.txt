@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru-ru" lang="ru-ru" dir="ltr">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    	<base href="http://itr-es.ru/index.php/type-of-work-2" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="проектирование, строительство, монтаж, наладка, волоконно, оптический, кабель, ВОЛС, систем, связи, ЦСПИ, воздушная, линия, ВЛ, аренда, техника" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>ИТР | Виды работ</title>
+	<link href="/images/icon/favicon_itr.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/components/com_sppagebuilder/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/components/com_sppagebuilder/assets/css/animate.min.css" rel="stylesheet" type="text/css" />
+	<link href="/components/com_sppagebuilder/assets/css/sppagebuilder.css" rel="stylesheet" type="text/css" />
+	<link href="/components/com_sppagebuilder/assets/css/sppagecontainer.css" rel="stylesheet" type="text/css" />
+	<link href="//fonts.googleapis.com/css?family=Bender:regular&amp;latin" rel="stylesheet" type="text/css" />
+	<link href="/templates/lt_stable/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/lt_stable/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/lt_stable/css/default.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/lt_stable/css/legacy.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/lt_stable/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/lt_stable/css/presets/preset1.css" rel="stylesheet" type="text/css" class="preset" />
+	<style type="text/css">
+.sp-page-builder .page-content #section-id-1553578522766{margin:0px 0px 0px 0px;padding:30px 0px 30px 0px;}#sppb-addon-1553578522772 h4.sppb-addon-title {margin: 0px 0px 30px 0px; padding: 0px 0px 0px 0px; }#sppb-addon-1553578522775 {
+	background-image: url(/images/bkg/nav_bkg.png);
+	background-repeat: repeat-vertically;
+	background-size: contain;
+	background-attachment: inherit;
+}
+#sppb-addon-1553578522775 a {
+	color: rgba(0, 0, 0, 1);
+}
+#sppb-addon-1553578522775 .sppb-addon-title {
+text-decoration: underline;}
+#sppb-addon-1553578522775 h4.sppb-addon-title {margin: 0px 0px 16px 0px; padding: 16px 0px 0px 10px; text-decoration: underline;}#sppb-addon-1553579746259 {
+	background-image: url(/images/bkg/nav_bkg.png);
+	background-repeat: repeat-vertically;
+	background-size: contain;
+	background-attachment: inherit;
+}
+#sppb-addon-1553579746259 a {
+	color: rgba(0, 0, 0, 1);
+}
+#sppb-addon-1553579746259 .sppb-addon-title {
+text-decoration: underline;}
+#sppb-addon-1553579746259 h4.sppb-addon-title {margin: 0px 0px 16px 0px; padding: 16px 0px 0px 10px; text-decoration: underline;}#sppb-addon-1553579746256 {
+	background-image: url(/images/bkg/nav_bkg.png);
+	background-repeat: repeat-vertically;
+	background-size: contain;
+	background-attachment: inherit;
+}
+#sppb-addon-1553579746256 a {
+	color: rgba(0, 0, 0, 1);
+}
+#sppb-addon-1553579746256 .sppb-addon-title {
+text-decoration: underline;}
+#sppb-addon-1553579746256 h4.sppb-addon-title {margin: 0px 0px 16px 0px; padding: 16px 0px 0px 10px; text-decoration: underline;}#sppb-addon-1553579746253 {
+	background-image: url(/images/bkg/nav_bkg.png);
+	background-repeat: repeat-vertically;
+	background-size: contain;
+	background-attachment: inherit;
+}
+#sppb-addon-1553579746253 a {
+	color: rgba(0, 0, 0, 1);
+}
+#sppb-addon-1553579746253 .sppb-addon-title {
+text-decoration: underline;}
+#sppb-addon-1553579746253 h4.sppb-addon-title {margin: 0px 0px 16px 0px; padding: 16px 0px 0px 10px; text-decoration: underline;}#sppb-addon-1553579746250 {
+	background-image: url(/images/bkg/nav_bkg.png);
+	background-repeat: repeat-vertically;
+	background-size: contain;
+	background-attachment: inherit;
+}
+#sppb-addon-1553579746250 a {
+	color: rgba(0, 0, 0, 1);
+}
+#sppb-addon-1553579746250 .sppb-addon-title {
+text-decoration: underline;}
+#sppb-addon-1553579746250 h4.sppb-addon-title {margin: 0px 0px 16px 0px; padding: 16px 0px 0px 10px; text-decoration: underline;}#sppb-addon-1553579746247 {
+	background-image: url(/images/bkg/nav_bkg.png);
+	background-repeat: repeat-vertically;
+	background-size: contain;
+	background-attachment: inherit;
+}
+#sppb-addon-1553579746247 a {
+	color: rgba(0, 0, 0, 1);
+}
+#sppb-addon-1553579746247 .sppb-addon-title {
+text-decoration: underline;}
+#sppb-addon-1553579746247 h4.sppb-addon-title {margin: 0px 0px 16px 0px; padding: 16px 0px 0px 10px; text-decoration: underline;}#sppb-addon-1553578522778 h2.sppb-addon-title {margin: 0px 0px 30px 0px; padding: 0px 0px 0px 0px; }body.site {background-image: url(/images/bkg/body_bkg.png);background-repeat: inherit;background-size: inherit;background-attachment: inherit;background-position: 0 0;}body{font-family:Bender, sans-serif; font-weight:normal; }h1{font-family:Bender, sans-serif; font-weight:normal; }h2{font-family:Bender, sans-serif; font-weight:normal; }h3{font-family:Bender, sans-serif; font-weight:normal; }h4{font-family:Bender, sans-serif; font-weight:normal; }h5{font-family:Bender, sans-serif; font-weight:normal; }h6{font-family:Bender, sans-serif; font-weight:normal; }.sp-megamenu-parent{font-family:Bender, sans-serif; font-weight:normal; }#sp-header{ background-image:url("/images/bkg/nav_bkg.png"); }
+	</style>
+	<script src="/media/system/js/core.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/components/com_sppagebuilder/assets/js/sppagebuilder.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/jquery.cookie.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/jquery.sticky.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/main.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/jquery.counterup.min.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/waypoints.min.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/jquery.easing.1.3.min.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/jquery.mixitup.min.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/jquery.stellar.min.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/wow.min.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/custom.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/scroll.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		(function() {
+			Joomla.JText.load({"COM_SPPAGEBUILDER_FRONTEND_EDITOR":"Frontend Editor","COM_SPPAGEBUILDER_PREVIEW":"Preview","COM_SPPAGEBUILDER_APPLY":"Apply","COM_SPPAGEBUILDER_CANCEL":"Cancel","COM_SPPAGEBUILDER_MEDIA_MANAGER":"Media Manager","COM_SPPAGEBUILDER_MEDIA_MANAGER_UPLOAD_FILES":"Upload Files","COM_SPPAGEBUILDER_MEDIA_MANAGER_CLOSE":"Close Modal","COM_SPPAGEBUILDER_MEDIA_MANAGER_INSERT":"Insert","COM_SPPAGEBUILDER_MEDIA_MANAGER_SEARCH":"Search","COM_SPPAGEBUILDER_MEDIA_MANAGER_CANCEL":"Cancel","COM_SPPAGEBUILDER_MEDIA_MANAGER_DELETE":"Delete","COM_SPPAGEBUILDER_MEDIA_MANAGER_CONFIRM_DELETE":"You are about to permanently delete this item. 'Cancel' to stop, 'OK' to delete.","COM_SPPAGEBUILDER_MEDIA_MANAGER_LOAD_MORE":"Load More","COM_SPPAGEBUILDER_MEDIA_MANAGER_UNSUPPORTED_FORMAT":"File format not supported.","COM_SPPAGEBUILDER_MEDIA_MANAGER_BROWSE_MEDIA":"Browse Media","COM_SPPAGEBUILDER_MEDIA_MANAGER_BROWSE_FOLDERS":"Browse Folders","COM_SPPAGEBUILDER_MEDIA_MANAGER_CREATE_FOLDER":"New Folder","COM_SPPAGEBUILDER_ADDON_ICON_SELECT":"Select Icon","COM_SPPAGEBUILDER_MEDIA_MANAGER_ENTER_DIRECTORY_NAME":"Please enter the name of the directory which should be created.","COM_SPPAGEBUILDER_MEDIA_MANAGER_MEDIA_UPLOADING":"Uploading","COM_SPPAGEBUILDER_MEDIA_MANAGER_UPLOAD_FAILED":"Upload Failed","COM_SPPAGEBUILDER_MEDIA_MANAGER_MEDIA_LARGE":"This file is too large to upload.","COM_SPPAGEBUILDER_MEDIA_MANAGER_FILE_NOT_SUPPORTED":"File not supported","COM_SPPAGEBUILDER_ROW_OPTIONS":"Row Options","COM_SPPAGEBUILDER_ADD_NEW_ROW":"Add New Row","COM_SPPAGEBUILDER_DUPLICATE_ROW":"Duplicate row","COM_SPPAGEBUILDER_DISABLE_ROW":"Disable Row","COM_SPPAGEBUILDER_ENABLE_ROW":"Enable Row","COM_SPPAGEBUILDER_COPY_ROW":"Copy Row","COM_SPPAGEBUILDER_ROW_COPIED":"Copied","COM_SPPAGEBUILDER_PASTE_ROW":"Paste Row","COM_SPPAGEBUILDER_DELETE_ROW":"Delete Row","COM_SPPAGEBUILDER_ROW_TOGGLE":"Toggle Row","COM_SPPAGEBUILDER_DELETE_ROW_CONFIRMATION":"Do you really want to delete this row?","COM_SPPAGEBUILDER_ROW_COLUMNS_MANAGEMENT":"Add\/Manage Columns","COM_SPPAGEBUILDER_ROW_COLUMNS_CUSTOM":"Custom","COM_SPPAGEBUILDER_ROW_COLUMNS_GENERATE":"Generate","COM_SPPAGEBUILDER_IMPORT_PAGE":"Import","COM_SPPAGEBUILDER_IMPORT_PAGE_ALT":"Import","COM_SPPAGEBUILDER_EXPORT_PAGE":"Export","COM_SPPAGEBUILDER_PAGE_TEMPLATES":"Page Templates","COM_SPPAGEBUILDER_UNDO":"Undo","COM_SPPAGEBUILDER_REDO":"Redo","COM_SPPAGEBUILDER_SAVE":"Save","COM_SPPAGEBUILDER_ROW_COLUMNS_OPTIONS":"Column Options","COM_SPPAGEBUILDER_DELETE_COLUMN":"Delete Column","COM_SPPAGEBUILDER_ADD_NEW_ADDON":"Add New Addon","COM_SPPAGEBUILDER_ADDON":"Addon","COM_SPPAGEBUILDER_DELETE_ADDON":"Delete Addon","COM_SPPAGEBUILDER_DUPLICATE_ADDON":"Clone Addon","COM_SPPAGEBUILDER_EDIT_ADDON":"Edit Addon","COM_SPPAGEBUILDER_ADDONS_LIST":"Addons List","COM_SPPAGEBUILDER_ALL":"All","COM_SPPAGEBUILDER_MODAL_CLOSE":"Close Modal","COM_SPPAGEBUILDER_DISABLE_COLUMN":"Disable Column","COM_SPPAGEBUILDER_ENABLE_COLUMN":"Enable Column","COM_SPPAGEBUILDER_YES":"Yes","COM_SPPAGEBUILDER_NO":"No","COM_SPPAGEBUILDER_PAGE_TEMPLATES_LIST":"Templates List","COM_SPPAGEBUILDER_PAGE_TEMPLATE_LOAD":"Load","COM_SPPAGEBUILDER_ENABLE_ADDON":"Enable Addon","COM_SPPAGEBUILDER_DISABLE_ADDON":"Disable Addon","COM_SPPAGEBUILDER_ADDON_PARENT_COLUMN":"Parent Column","COM_SPPAGEBUILDER_ADD_NEW_INNER_ROW":"Add Inner Row","COM_SPPAGEBUILDER_MOVE_COLUMN":"Move Column"});
+		})();
+	</script>
+	<meta content="website" property="og:type"/>
+	<meta content="http://itr-es.ru/index.php/type-of-work-2" property="og:url" />
+	<meta content="ИТР | Виды работ" property="og:title" />
+
+   
+    </head>
+<body class="site com-sppagebuilder view-page no-layout no-task itemid-112 ru-ru ltr  sticky-header layout-boxed">
+    <div class="body-innerwrapper">
+        <section id="sp-logocontacts"><div class="container"><div class="row"><div id="sp-logo" class="col-xs-8 col-sm-4 col-md-4"><div class="sp-column "><a class="logo" href="/"><h1><img class="sp-default-logo" src="/images/logo/logo_itr.png" alt="itr-es"></h1></a></div></div><div id="sp-top2" class="col-sm-8 col-md-8"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom"  >
+	<p> </p>
+<p style="language: ru; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: right; direction: ltr; unicode-bidi: embed; mso-line-break-override: none; word-break: normal; punctuation-wrap: hanging;"><span style="font-size: 20.0pt; font-family: Bender; mso-ascii-font-family: Bender; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: ru; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;">+7 (499) 136-29-36</span></p>
+<p style="text-align: right;"><u style="text-align: right; font-size: 12.16px;"><span style="font-size: 12pt; font-family: Bender; color: #c00000;">info@itr-es.ru</span></u></p></div>
+</div></div></div></div></div></div></section><header id="sp-header"><div class="container"><div class="row"><div id="sp-menu" class="col-xs-4 col-sm-12 col-md-12"><div class="sp-column ">			<div class='sp-megamenu-wrapper'>
+				<a id="offcanvas-toggler" class="visible-xs" href="#"><i class="fa fa-bars"></i></a>
+				<ul class="sp-megamenu-parent menu-fade hidden-xs"><li class="sp-menu-item"><a  href="/index.php" >Главная</a></li><li class="sp-menu-item"><a  href="/index.php/about-company" >О компании</a></li><li class="sp-menu-item"><a  href="/index.php/type-of-work" >Виды работ</a></li><li class="sp-menu-item"><a  href="/index.php/objects" >Объекты</a></li><li class="sp-menu-item"><a  href="/index.php/suppliers" >Поставщики</a></li><li class="sp-menu-item"><a  href="/index.php/documentation" >Документы</a></li><li class="sp-menu-item"><a  href="/index.php/vacancies" >Вакансии</a></li><li class="sp-menu-item"><a  href="/index.php/contacts" >Контакты</a></li></ul>			</div>
+		</div></div></div></div></header><section id="sp-page-title"><div class="row"><div id="sp-title" class="col-sm-12 col-md-12"><div class="sp-column "></div></div></div></section><section id="sp-main-body"><div class="row"><div id="sp-component" class="col-sm-12 col-md-12"><div class="sp-column "><div id="system-message-container">
+	</div>
+
+<div id="sp-page-builder" class="sp-page-builder  page-9">
+
+	
+	<div class="page-content">
+		<section id="section-id-1553578522766" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12"><div id="column-id-1553578522767" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553578522772" class="clearfix" ><div class="sppb-addon sppb-addon-header sppb-text-left"><h4 class="sppb-addon-title">Главная > Виды работ > Проектирование, монтаж и наладка систем связи</h4></div></div></div></div></div><div class="sppb-col-md-4"><div id="column-id-1553578522768" class="sppb-column " ><div class="sppb-column-addons"><div id="sppb-addon-1553578522775" class="clearfix" ><div class="sppb-addon sppb-addon-header sppb-text-left"><a href="/../index.php/type-of-work"><h4 class="sppb-addon-title">Проектирование и строительство ВОЛС</h4></a></div></div><div id="sppb-addon-1553579746259" class="clearfix" ><div class="sppb-addon sppb-addon-header sppb-text-left"><a href="/../index.php/type-of-work-2"><h4 class="sppb-addon-title">Проектирование, монтаж и наладка систем связи</h4></a></div></div><div id="sppb-addon-1553579746256" class="clearfix" ><div class="sppb-addon sppb-addon-header sppb-text-left"><a href="/../index.php/type-of-work-3"><h4 class="sppb-addon-title">Поставка оборудования и материалов</h4></a></div></div><div id="sppb-addon-1553579746253" class="clearfix" ><div class="sppb-addon sppb-addon-header sppb-text-left"><a href="/../index.php/type-of-work-4"><h4 class="sppb-addon-title">Эксплуатационно-техническое обслуживание линий связи</h4></a></div></div><div id="sppb-addon-1553579746250" class="clearfix" ><div class="sppb-addon sppb-addon-header sppb-text-left"><a href="/../index.php/type-of-work-5"><h4 class="sppb-addon-title">Проектирование и строительство ВЛ</h4></a></div></div><div id="sppb-addon-1553579746247" class="clearfix" ><div class="sppb-addon sppb-addon-header sppb-text-left"><a href="/../index.php/type-of-work-6"><h4 class="sppb-addon-title">Аренда и продажа техники</h4></a></div></div></div></div></div><div class="sppb-col-md-8"><div id="column-id-1553578522769" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553578522778" class="clearfix" ><div class="sppb-addon sppb-addon-header sppb-text-left"><h2 class="sppb-addon-title">Проектирование, монтаж и наладка систем связи</h2></div></div><div id="sppb-addon-1553578522781" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><div style="text-align: justify;">
+<p><span style="font-size: 12pt;">Одним из основных направлений деятельности ООО &laquo;И.Т.Р&raquo; является разработка технических решений и их внедрение в сфере телекоммуникаций для энергетического сектора:</span></p>
+<p><span style="font-size: 12pt;">&nbsp;- организация каналов передачи данных и каналов связи;</span></p>
+<p><span style="font-size: 12pt;">&nbsp;- организация диспетчерских пунктов управления;</span></p>
+<p><span style="font-size: 12pt;">&nbsp;- организация узлов связи и ЦОД;</span></p>
+<p><span style="font-size: 12pt;">&nbsp;- организация распределенных АТС;</span></p>
+<p><span style="font-size: 12pt;">&nbsp;- организация каналов SDH, PDH связи по ВОЛС;</span></p>
+<p><span style="font-size: 12pt;">&nbsp;- организация каналов радиосвязи;</span></p>
+<p><span style="font-size: 12pt;">&nbsp;- организация каналов беспроводной связи (РРЛ).</span><br /><br /><span style="font-size: 12pt;">В полный комплекс услуг входит:</span></p>
+<p><span style="font-size: 12pt;">&nbsp;- разработку проектно-сметной документации;</span></p>
+<p><span style="font-size: 12pt;">&nbsp;- поставку оборудования;</span></p>
+<p><span style="font-size: 12pt;">&nbsp;- строительно-монтажные работы;</span></p>
+<p><span style="font-size: 12pt;">&nbsp;- пуско-наладочные работы;</span></p>
+<p><span style="font-size: 12pt;">&nbsp;- техническое обслуживание.</span><br /><br /><span style="font-size: 12pt;">Кроме того немаловажно уделять внимание созданию инфраструктуры для корректной и безаварийной работы оборудования. Для этого ООО &laquo;И.Т.Р&raquo; производит приспособление помещений для размещения оборудования.</span><br /><br /><span style="font-size: 12pt;">В данный раздел входит проектирование и монтаж систем кондиционирования помещения, пожарная безопасность и системы пожаротушения, обеспечение бесперебойного электропитания, систем, видеонаблюдения контроля доступа и прочее.</span></p>
+</div></div></div></div></div></div></div></div></div></section>			</div>
+</div>
+</div></div></div></section><footer id="sp-footer"><div class="container"><div class="row"><div id="sp-footer1" class="col-sm-12 col-md-12"><div class="sp-column "><span class="sp-copyright"> © 2019 ООО «И.Т.Р»</span></div></div></div></div></footer>
+        <div class="offcanvas-menu">
+            <a href="#" class="close-offcanvas"><i class="fa fa-remove"></i></a>
+            <div class="offcanvas-inner">
+                                    <p class="alert alert-warning">Please publish modules in <strong>offcanvas</strong> position.</p>
+                            </div>
+        </div>
+    </div>
+        <!-- <p align="center"><a href="http://ltheme.com" target="_blank" title="Free Joomla! template by L.THEME">Free Joomla! template by L.THEME</a></p> -->
+    
+  
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(53032624, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/53032624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+  
+  
+</body>
+</html>

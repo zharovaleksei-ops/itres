@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru-ru" lang="ru-ru" dir="ltr">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    	<base href="http://itr-es.ru/index.php/objects" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="проектирование, строительство, монтаж, наладка, волоконно, оптический, кабель, ВОЛС, систем, связи, ЦСПИ, воздушная, линия, ВЛ, аренда, техника" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>ИТР | Объекты</title>
+	<link href="/images/icon/favicon_itr.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/components/com_sppagebuilder/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/components/com_sppagebuilder/assets/css/animate.min.css" rel="stylesheet" type="text/css" />
+	<link href="/components/com_sppagebuilder/assets/css/sppagebuilder.css" rel="stylesheet" type="text/css" />
+	<link href="/components/com_sppagebuilder/assets/css/sppagecontainer.css" rel="stylesheet" type="text/css" />
+	<link href="/components/com_sppagebuilder/assets/css/magnific-popup.css" rel="stylesheet" type="text/css" />
+	<link href="//fonts.googleapis.com/css?family=Bender:regular&amp;latin" rel="stylesheet" type="text/css" />
+	<link href="/templates/lt_stable/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/lt_stable/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/lt_stable/css/default.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/lt_stable/css/legacy.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/lt_stable/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/lt_stable/css/presets/preset1.css" rel="stylesheet" type="text/css" class="preset" />
+	<style type="text/css">
+.sp-page-builder .page-content #section-id-1553601027085{margin:0px 0px 0px 0px;padding:30px 0px 0px 0px;}#sppb-addon-1553601027089 .sppb-addon-title {
+font-weight: bold;}
+#sppb-addon-1553601027089 h2.sppb-addon-title {margin: 0px 0px 30px 0px; padding: 0px 0px 0px 0px; font-weight: bold;}.sp-page-builder .page-content #section-id-1553601027057{margin:0px 0px 0px 0px;padding:10px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1553601027073{margin:0px 0px 0px 0px;padding:30px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1553601027092{margin:0px 0px 0px 0px;padding:30px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1553601027102{margin:0px 0px 0px 0px;padding:30px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1553601027116{margin:0px 0px 0px 0px;padding:30px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1553601027126{margin:0px 0px 0px 0px;padding:30px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1553601027136{margin:0px 0px 0px 0px;padding:30px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1553601027150{margin:0px 0px 0px 0px;padding:30px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1553601027166{margin:0px 0px 0px 0px;padding:30px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1553601027178{margin:0px 0px 0px 0px;padding:30px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1553601027190{margin:0px 0px 0px 0px;padding:30px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1553601027200{margin:0px 0px 0px 0px;padding:30px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1553601027214{margin:0px 0px 0px 0px;padding:30px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1553601027228{margin:0px 0px 0px 0px;padding:30px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1553601027240{margin:0px 0px 0px 0px;padding:30px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1553601027254{margin:0px 0px 0px 0px;padding:30px 0px 0px 0px;}.sp-page-builder .page-content #section-id-1553601027264{margin:0px 0px 0px 0px;padding:30px 0px 30px 0px;}body.site {background-image: url(/images/bkg/body_bkg.png);background-repeat: inherit;background-size: inherit;background-attachment: inherit;background-position: 0 0;}body{font-family:Bender, sans-serif; font-weight:normal; }h1{font-family:Bender, sans-serif; font-weight:normal; }h2{font-family:Bender, sans-serif; font-weight:normal; }h3{font-family:Bender, sans-serif; font-weight:normal; }h4{font-family:Bender, sans-serif; font-weight:normal; }h5{font-family:Bender, sans-serif; font-weight:normal; }h6{font-family:Bender, sans-serif; font-weight:normal; }.sp-megamenu-parent{font-family:Bender, sans-serif; font-weight:normal; }#sp-header{ background-image:url("/images/bkg/nav_bkg.png"); }
+	</style>
+	<script src="/media/system/js/core.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/components/com_sppagebuilder/assets/js/sppagebuilder.js" type="text/javascript"></script>
+	<script src="/components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/jquery.cookie.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/jquery.sticky.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/main.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/jquery.counterup.min.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/waypoints.min.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/jquery.easing.1.3.min.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/jquery.mixitup.min.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/jquery.stellar.min.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/wow.min.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/custom.js" type="text/javascript"></script>
+	<script src="/templates/lt_stable/js/scroll.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		(function() {
+			Joomla.JText.load({"COM_SPPAGEBUILDER_FRONTEND_EDITOR":"Frontend Editor","COM_SPPAGEBUILDER_PREVIEW":"Preview","COM_SPPAGEBUILDER_APPLY":"Apply","COM_SPPAGEBUILDER_CANCEL":"Cancel","COM_SPPAGEBUILDER_MEDIA_MANAGER":"Media Manager","COM_SPPAGEBUILDER_MEDIA_MANAGER_UPLOAD_FILES":"Upload Files","COM_SPPAGEBUILDER_MEDIA_MANAGER_CLOSE":"Close Modal","COM_SPPAGEBUILDER_MEDIA_MANAGER_INSERT":"Insert","COM_SPPAGEBUILDER_MEDIA_MANAGER_SEARCH":"Search","COM_SPPAGEBUILDER_MEDIA_MANAGER_CANCEL":"Cancel","COM_SPPAGEBUILDER_MEDIA_MANAGER_DELETE":"Delete","COM_SPPAGEBUILDER_MEDIA_MANAGER_CONFIRM_DELETE":"You are about to permanently delete this item. 'Cancel' to stop, 'OK' to delete.","COM_SPPAGEBUILDER_MEDIA_MANAGER_LOAD_MORE":"Load More","COM_SPPAGEBUILDER_MEDIA_MANAGER_UNSUPPORTED_FORMAT":"File format not supported.","COM_SPPAGEBUILDER_MEDIA_MANAGER_BROWSE_MEDIA":"Browse Media","COM_SPPAGEBUILDER_MEDIA_MANAGER_BROWSE_FOLDERS":"Browse Folders","COM_SPPAGEBUILDER_MEDIA_MANAGER_CREATE_FOLDER":"New Folder","COM_SPPAGEBUILDER_ADDON_ICON_SELECT":"Select Icon","COM_SPPAGEBUILDER_MEDIA_MANAGER_ENTER_DIRECTORY_NAME":"Please enter the name of the directory which should be created.","COM_SPPAGEBUILDER_MEDIA_MANAGER_MEDIA_UPLOADING":"Uploading","COM_SPPAGEBUILDER_MEDIA_MANAGER_UPLOAD_FAILED":"Upload Failed","COM_SPPAGEBUILDER_MEDIA_MANAGER_MEDIA_LARGE":"This file is too large to upload.","COM_SPPAGEBUILDER_MEDIA_MANAGER_FILE_NOT_SUPPORTED":"File not supported","COM_SPPAGEBUILDER_ROW_OPTIONS":"Row Options","COM_SPPAGEBUILDER_ADD_NEW_ROW":"Add New Row","COM_SPPAGEBUILDER_DUPLICATE_ROW":"Duplicate row","COM_SPPAGEBUILDER_DISABLE_ROW":"Disable Row","COM_SPPAGEBUILDER_ENABLE_ROW":"Enable Row","COM_SPPAGEBUILDER_COPY_ROW":"Copy Row","COM_SPPAGEBUILDER_ROW_COPIED":"Copied","COM_SPPAGEBUILDER_PASTE_ROW":"Paste Row","COM_SPPAGEBUILDER_DELETE_ROW":"Delete Row","COM_SPPAGEBUILDER_ROW_TOGGLE":"Toggle Row","COM_SPPAGEBUILDER_DELETE_ROW_CONFIRMATION":"Do you really want to delete this row?","COM_SPPAGEBUILDER_ROW_COLUMNS_MANAGEMENT":"Add\/Manage Columns","COM_SPPAGEBUILDER_ROW_COLUMNS_CUSTOM":"Custom","COM_SPPAGEBUILDER_ROW_COLUMNS_GENERATE":"Generate","COM_SPPAGEBUILDER_IMPORT_PAGE":"Import","COM_SPPAGEBUILDER_IMPORT_PAGE_ALT":"Import","COM_SPPAGEBUILDER_EXPORT_PAGE":"Export","COM_SPPAGEBUILDER_PAGE_TEMPLATES":"Page Templates","COM_SPPAGEBUILDER_UNDO":"Undo","COM_SPPAGEBUILDER_REDO":"Redo","COM_SPPAGEBUILDER_SAVE":"Save","COM_SPPAGEBUILDER_ROW_COLUMNS_OPTIONS":"Column Options","COM_SPPAGEBUILDER_DELETE_COLUMN":"Delete Column","COM_SPPAGEBUILDER_ADD_NEW_ADDON":"Add New Addon","COM_SPPAGEBUILDER_ADDON":"Addon","COM_SPPAGEBUILDER_DELETE_ADDON":"Delete Addon","COM_SPPAGEBUILDER_DUPLICATE_ADDON":"Clone Addon","COM_SPPAGEBUILDER_EDIT_ADDON":"Edit Addon","COM_SPPAGEBUILDER_ADDONS_LIST":"Addons List","COM_SPPAGEBUILDER_ALL":"All","COM_SPPAGEBUILDER_MODAL_CLOSE":"Close Modal","COM_SPPAGEBUILDER_DISABLE_COLUMN":"Disable Column","COM_SPPAGEBUILDER_ENABLE_COLUMN":"Enable Column","COM_SPPAGEBUILDER_YES":"Yes","COM_SPPAGEBUILDER_NO":"No","COM_SPPAGEBUILDER_PAGE_TEMPLATES_LIST":"Templates List","COM_SPPAGEBUILDER_PAGE_TEMPLATE_LOAD":"Load","COM_SPPAGEBUILDER_ENABLE_ADDON":"Enable Addon","COM_SPPAGEBUILDER_DISABLE_ADDON":"Disable Addon","COM_SPPAGEBUILDER_ADDON_PARENT_COLUMN":"Parent Column","COM_SPPAGEBUILDER_ADD_NEW_INNER_ROW":"Add Inner Row","COM_SPPAGEBUILDER_MOVE_COLUMN":"Move Column"});
+		})();
+	</script>
+	<meta content="website" property="og:type"/>
+	<meta content="http://itr-es.ru/index.php/objects" property="og:url" />
+	<meta content="ИТР | Объекты" property="og:title" />
+
+   
+    </head>
+<body class="site com-sppagebuilder view-page no-layout no-task itemid-107 ru-ru ltr  sticky-header layout-boxed">
+    <div class="body-innerwrapper">
+        <section id="sp-logocontacts"><div class="container"><div class="row"><div id="sp-logo" class="col-xs-8 col-sm-4 col-md-4"><div class="sp-column "><a class="logo" href="/"><h1><img class="sp-default-logo" src="/images/logo/logo_itr.png" alt="itr-es"></h1></a></div></div><div id="sp-top2" class="col-sm-8 col-md-8"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom"  >
+	<p> </p>
+<p style="language: ru; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: right; direction: ltr; unicode-bidi: embed; mso-line-break-override: none; word-break: normal; punctuation-wrap: hanging;"><span style="font-size: 20.0pt; font-family: Bender; mso-ascii-font-family: Bender; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: ru; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;">+7 (499) 136-29-36</span></p>
+<p style="text-align: right;"><u style="text-align: right; font-size: 12.16px;"><span style="font-size: 12pt; font-family: Bender; color: #c00000;">info@itr-es.ru</span></u></p></div>
+</div></div></div></div></div></div></section><header id="sp-header"><div class="container"><div class="row"><div id="sp-menu" class="col-xs-4 col-sm-12 col-md-12"><div class="sp-column ">			<div class='sp-megamenu-wrapper'>
+				<a id="offcanvas-toggler" class="visible-xs" href="#"><i class="fa fa-bars"></i></a>
+				<ul class="sp-megamenu-parent menu-fade hidden-xs"><li class="sp-menu-item"><a  href="/index.php" >Главная</a></li><li class="sp-menu-item"><a  href="/index.php/about-company" >О компании</a></li><li class="sp-menu-item"><a  href="/index.php/type-of-work" >Виды работ</a></li><li class="sp-menu-item current-item active"><a  href="/index.php/objects" >Объекты</a></li><li class="sp-menu-item"><a  href="/index.php/suppliers" >Поставщики</a></li><li class="sp-menu-item"><a  href="/index.php/documentation" >Документы</a></li><li class="sp-menu-item"><a  href="/index.php/vacancies" >Вакансии</a></li><li class="sp-menu-item"><a  href="/index.php/contacts" >Контакты</a></li></ul>			</div>
+		</div></div></div></div></header><section id="sp-page-title"><div class="row"><div id="sp-title" class="col-sm-12 col-md-12"><div class="sp-column "></div></div></div></section><section id="sp-main-body"><div class="row"><div id="sp-component" class="col-sm-12 col-md-12"><div class="sp-column "><div id="system-message-container">
+	</div>
+
+<div id="sp-page-builder" class="sp-page-builder  page-4">
+
+	
+	<div class="page-content">
+		<section id="section-id-1553601027085" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12"><div id="column-id-1553601027086" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027089" class="clearfix" ><div class="sppb-addon sppb-addon-header sppb-text-left"><h2 class="sppb-addon-title">Объекты</h2></div></div></div></div></div></div></div></section><section id="section-id-1553601027057" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1553601027058" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-3"><div id="column-id-1553601027061" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027065" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/foto_obj/01_tihorec.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-col-md-8"><div id="column-id-1553601027062" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027068" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content">	<table width="905">
+<tbody>
+<tr>
+<td width="201"><span style="font-size: 18pt;">Проект</span></td>
+<td width="704"><span style="font-size: 18pt;">Строительство ВЛ 500 кВ &laquo;Ростов &ndash; Тихорецк&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Местоположение</span></td>
+<td><span style="font-size: 12pt;">Ростовская область, Краснодарский край</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Заказчик</span></td>
+<td><span style="font-size: 12pt;">ПАО &laquo;ФСК ЕЭС&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Выполненные работы</span></td>
+<td><span style="font-size: 12pt;">Монтаж 52 км ВОЛС&nbsp;</span></td>
+</tr>
+</tbody>
+</table></div></div></div></div></div></div></div></div></section><section id="section-id-1553601027073" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1553601027074" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-3"><div id="column-id-1553601027075" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027076" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/foto_obj/02_rosrezerv.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-col-md-8"><div id="column-id-1553601027077" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027078" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><table width="905">
+<tbody>
+<tr>
+<td width="201"><span style="font-size: 18pt;">Проект</span></td>
+<td width="704"><span style="font-size: 18pt;">ВОЛС Складской комплекс ФГКУ комбинат<br />&laquo;Первомайский&raquo; Росрезерва</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Местоположение</span></td>
+<td><span style="font-size: 12pt;">Московская область</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Заказчик</span></td>
+<td><span style="font-size: 12pt;">ФГКУ комбинат &laquo;Первомайский&raquo; УФАГР по ЦФО</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Выполненные работы</span></td>
+<td><span style="font-size: 12pt;">Монтаж 1300 м ВОЛС и строительство 1300 м кабельной канализации</span></td>
+</tr>
+</tbody>
+</table></div></div></div></div></div></div></div></div></section><section id="section-id-1553601027092" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1553601027093" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-3"><div id="column-id-1553601027094" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027095" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/foto_obj/03_kozev.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-col-md-8"><div id="column-id-1553601027096" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027097" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><table width="905">
+<tbody>
+<tr>
+<td width="201"><span style="font-size: 18pt;">Проект</span></td>
+<td width="704"><span style="font-size: 18pt;">Строительство ПС 220 кВ &laquo;Кожевническая&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Местоположение</span></td>
+<td><span style="font-size: 12pt;">город Москва</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Заказчик</span></td>
+<td><span style="font-size: 12pt;">ПАО &laquo;МОЭСК&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Выполненные работы</span></td>
+<td><span style="font-size: 12pt;">Монтаж 9500 м ВОЛС и строительство кабельной канализации</span></td>
+</tr>
+</tbody>
+</table></div></div></div></div></div></div></div></div></section><section id="section-id-1553601027102" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1553601027103" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-3"><div id="column-id-1553601027104" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027105" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/foto_obj/04_begish.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-col-md-8"><div id="column-id-1553601027106" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027107" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><table width="905">
+<tbody>
+<tr>
+<td width="201"><span style="font-size: 18pt;">Проект</span></td>
+<td width="704"><span style="font-size: 18pt;">Строительство ВЛ 220 кВ &laquo;Щелоково - Бегишево&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Местоположение</span></td>
+<td><span style="font-size: 12pt;">Республика Татарстан</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Заказчик</span></td>
+<td><span style="font-size: 12pt;">ОАО &laquo;Сетевая Компания&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Выполненные работы</span></td>
+<td><span style="font-size: 12pt;">Монтаж 98 км ВОЛС&nbsp;</span></td>
+</tr>
+</tbody>
+</table></div></div></div></div></div></div></div></div></section><section id="section-id-1553601027116" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1553601027117" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-3"><div id="column-id-1553601027118" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027119" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/foto_obj/05_nefteug.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-col-md-8"><div id="column-id-1553601027120" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027121" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><table width="905">
+<tbody>
+<tr>
+<td width="201"><span style="font-size: 18pt;">Проект</span></td>
+<td width="704"><span style="font-size: 18pt;">Строительство ВОЛС &laquo;Нефтеюганск - Пыть-Ях&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Местоположение</span></td>
+<td><span style="font-size: 12pt;">Ханты-Мансийский автономный округ</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Заказчик</span></td>
+<td><span style="font-size: 12pt;">ПАО &laquo;Роснефть&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Выполненные работы</span></td>
+<td><span style="font-size: 12pt;">Монтаж 15 км ВОЛС</span></td>
+</tr>
+</tbody>
+</table></div></div></div></div></div></div></div></div></section><section id="section-id-1553601027126" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1553601027127" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-3"><div id="column-id-1553601027128" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027129" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/foto_obj/06_priob.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-col-md-8"><div id="column-id-1553601027130" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027131" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><table width="905">
+<tbody>
+<tr>
+<td width="201"><span style="font-size: 18pt;">Проект</span></td>
+<td width="704"><span style="font-size: 18pt;">Строительство ВОЛС &laquo;Приобское месторождение&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Местоположение</span></td>
+<td><span style="font-size: 12pt;">Ханты-Мансийский автономный округ</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Заказчик</span></td>
+<td><span style="font-size: 12pt;">ПАО &laquo;Роснефть&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Выполненные работы</span></td>
+<td><span style="font-size: 12pt;">Монтаж 18 км ВОЛС&nbsp;</span></td>
+</tr>
+</tbody>
+</table></div></div></div></div></div></div></div></div></section><section id="section-id-1553601027136" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1553601027137" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-3"><div id="column-id-1553601027138" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027139" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/foto_obj/07_kazan.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-col-md-8"><div id="column-id-1553601027140" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027141" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><table width="905">
+<tbody>
+<tr>
+<td width="201"><span style="font-size: 18pt;">Проект</span></td>
+<td width="704"><span style="font-size: 18pt;">Организации ЦПСС и ПАА по ВОЛС с ПС 110 кВ<br />Кировская с завершением Северо &ndash;Западного<br />полукольца ВОЛП Казанской зоны&raquo; в г. Казань</span></td>
+</tr>
+<tr>
+<td>М<span style="font-size: 12pt;">естоположение</span></td>
+<td><span style="font-size: 12pt;">Республика Татарстан</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Заказчик</span></td>
+<td><span style="font-size: 12pt;">ОАО &laquo;Сетевая Компания&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Выполненные работы</span></td>
+<td><span style="font-size: 12pt;">Поставка оборудования&nbsp; кабеля, материалов. Монтаж 20 км ВОЛС. Монтаж<br />и наладка оборудования ЦСПИ и телемеханики на 11 узлах связи</span></td>
+</tr>
+</tbody>
+</table></div></div></div></div></div></div></div></div></section><section id="section-id-1553601027150" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1553601027151" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-3"><div id="column-id-1553601027152" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027153" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/foto_obj/08_arzamas.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-col-md-8"><div id="column-id-1553601027154" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027155" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><table width="905">
+<tbody>
+<tr>
+<td width="201"><span style="font-size: 18pt;">Проект</span></td>
+<td width="704"><span style="font-size: 18pt;">Строительство ВОЛС &laquo;Арзамасская - Бобыльская&raquo;<br />(включая спец. переход через р. Ока)</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Местоположение</span></td>
+<td><span style="font-size: 12pt;">Нижегородская область</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Заказчик</span></td>
+<td><span style="font-size: 12pt;">ПАО &laquo;ФСК ЕЭС&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Выполненные работы</span></td>
+<td><span style="font-size: 12pt;">Поставка материалов. Монтаж 25 км ВОЛС</span></td>
+</tr>
+</tbody>
+</table></div></div></div></div></div></div></div></div></section><section id="section-id-1553601027166" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1553601027167" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-3"><div id="column-id-1553601027168" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027169" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/foto_obj/09_shel_cent.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-col-md-8"><div id="column-id-1553601027170" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027171" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><table width="905">
+<tbody>
+<tr>
+<td width="201"><span style="font-size: 18pt;">Проект</span></td>
+<td width="704"><span style="font-size: 18pt;">Строительство ВОЛС &laquo;Щелоков - Центральная&raquo;<br />(включая спец. переход через р. Вятка)</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+<td width="704"><span style="font-size: 18pt;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Местоположение</span></td>
+<td><span style="font-size: 12pt;">Республика Татарстан</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Заказчик</span></td>
+<td><span style="font-size: 12pt;">ОАО &laquo;Сетевая Компания&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Выполненные работы</span></td>
+<td><span style="font-size: 12pt;">Поставка кабеля и материалов. Монтаж 240 км ВОЛС</span></td>
+</tr>
+</tbody>
+</table></div></div></div></div></div></div></div></div></section><section id="section-id-1553601027178" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1553601027179" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-3"><div id="column-id-1553601027180" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027181" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/foto_obj/10_rza.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-col-md-8"><div id="column-id-1553601027182" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027183" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><table width="905">
+<tbody>
+<tr>
+<td width="201"><span style="font-size: 18pt;">Проект</span></td>
+<td width="704"><span style="font-size: 18pt;">Строительство системы РЗА, системы ВОЛС ВЛ 220<br />кВ &laquo;Щелоков - Центральная&raquo; 1 и 2 цепь</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Местоположение</span></td>
+<td><span style="font-size: 12pt;">Республика Татарстан</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Заказчик</span></td>
+<td><span style="font-size: 12pt;">ОАО &laquo;Сетевая Компания&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Выполненные работы</span></td>
+<td><span style="font-size: 12pt;">Поставка кабеля, оборудования и материалов. Монтаж 250 м ВОЛС. Монтаж<br />и наладка оборудования ЦСПИ, РЗА и ПА на 1 подстанции</span></td>
+</tr>
+</tbody>
+</table></div></div></div></div></div></div></div></div></section><section id="section-id-1553601027190" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1553601027191" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-3"><div id="column-id-1553601027192" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027193" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/foto_obj/11_rostov.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-col-md-8"><div id="column-id-1553601027194" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027195" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><table width="905">
+<tbody>
+<tr>
+<td width="201"><span style="font-size: 18pt;">Проект</span></td>
+<td width="704"><span style="font-size: 18pt;">Строительство ВОЛС &laquo;ВЛ 500 кВ ПС Ростовская &ndash;<br />Ростовская АЭС&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Местоположение</span></td>
+<td><span style="font-size: 12pt;">Ростовская область</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Заказчик</span></td>
+<td><span style="font-size: 12pt;">ПАО &laquo;ФСК ЕЭС&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Выполненные работы</span></td>
+<td><span style="font-size: 12pt;">Монтаж 25 км ВОЛС (ОКГТ, ГТ с плавкой гололеда)</span></td>
+</tr>
+</tbody>
+</table></div></div></div></div></div></div></div></div></section><section id="section-id-1553601027200" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1553601027201" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-3"><div id="column-id-1553601027202" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027203" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/foto_obj/12_mamadish.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-col-md-8"><div id="column-id-1553601027204" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027205" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><table width="905">
+<tbody>
+<tr>
+<td width="201"><span style="font-size: 18pt;">Проект</span></td>
+<td width="704"><span style="font-size: 18pt;">Строительство ВОЛС по ВЛ 110 кВ &laquo;Мамадыш &ndash;<br />Кирмени&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Местоположение</span></td>
+<td><span style="font-size: 12pt;">Республика Татарстан</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Заказчик</span></td>
+<td><span style="font-size: 12pt;">ОАО &laquo;Сетевая Компания&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Выполненные работы</span></td>
+<td><span style="font-size: 12pt;">Поставка кабеля, оборудования и материалов. Монтаж 13 км ВОЛС. Монтаж<br />и наладка оборудования ЦСПИ на 2 узлах связи.</span></td>
+</tr>
+</tbody>
+</table></div></div></div></div></div></div></div></div></section><section id="section-id-1553601027214" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1553601027215" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-3"><div id="column-id-1553601027216" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027217" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/foto_obj/13_orel.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-col-md-8"><div id="column-id-1553601027218" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027219" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><table width="905">
+<tbody>
+<tr>
+<td width="201"><span style="font-size: 18pt;">Проект</span></td>
+<td width="704"><span style="font-size: 18pt;">ВОЛС &laquo;Орел &ndash; Мценск &ndash; Тула&raquo; по титулу: &laquo;Создание<br />единой технолигической сети связи<br />электроэнергетики (ЕТССЭ)&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Местоположение</span></td>
+<td><span style="font-size: 12pt;">Тульская область</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Заказчик</span></td>
+<td><span style="font-size: 12pt;">ПАО &laquo;ФСК ЕЭС&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Выполненные работы</span></td>
+<td><span style="font-size: 12pt;">Монтаж 80 км ВОЛС&nbsp;</span></td>
+</tr>
+</tbody>
+</table></div></div></div></div></div></div></div></div></section><section id="section-id-1553601027228" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1553601027229" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-3"><div id="column-id-1553601027230" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027231" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/foto_obj/14_belozer.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-col-md-8"><div id="column-id-1553601027232" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027233" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><table width="905">
+<tbody>
+<tr>
+<td width="201"><span style="font-size: 18pt;">Проект</span></td>
+<td width="704"><span style="font-size: 18pt;">Строительство ВЛ 750 кВ &laquo;Белозерская -<br />Ленинградская&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Местоположение</span></td>
+<td><span style="font-size: 12pt;">Ленинградская и Вологодская области</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Заказчик</span></td>
+<td><span style="font-size: 12pt;">ПАО &laquo;ФСК ЕЭС&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Выполненные работы</span></td>
+<td><span style="font-size: 12pt;">Монтаж 91 км ВОЛС&nbsp;</span></td>
+</tr>
+</tbody>
+</table></div></div></div></div></div></div></div></div></section><section id="section-id-1553601027240" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1553601027241" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-3"><div id="column-id-1553601027242" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027243" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/foto_obj/15_kirov.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-col-md-8"><div id="column-id-1553601027244" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027245" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><table width="905">
+<tbody>
+<tr>
+<td width="201"><span style="font-size: 18pt;">Проект</span></td>
+<td width="704"><span style="font-size: 18pt;">Комплексное техническое перевооружение и<br />реконструкция ПС 220 кВ Кировская. Корректировка.<br />3 этап строительства</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Местоположение</span></td>
+<td><span style="font-size: 12pt;">Волгоградская область</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Заказчик</span></td>
+<td><span style="font-size: 12pt;">ПАО &laquo;ФСК ЕЭС&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Выполненные работы</span></td>
+<td><span style="font-size: 12pt;">Монтаж 80 км ВОЛС&nbsp;</span></td>
+</tr>
+</tbody>
+</table></div></div></div></div></div></div></div></div></section><section id="section-id-1553601027254" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1553601027255" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-3"><div id="column-id-1553601027256" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027257" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/foto_obj/16_moesk.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-col-md-8"><div id="column-id-1553601027258" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027259" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><table width="905">
+<tbody>
+<tr>
+<td width="201"><span style="font-size: 18pt;">Проект</span></td>
+<td width="704"><span style="font-size: 18pt;">Реконструкция комплексов ТМ на 8 ПС СЭС &ndash;<br />филиала ОАО &laquo;МОЭСК&raquo;, обеспечивающих<br />электропитание аэропортов и тяговых ж.д. ПС</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Местоположение</span></td>
+<td><span style="font-size: 12pt;">Московская область</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Заказчик</span></td>
+<td><span style="font-size: 12pt;">ПАО &laquo;МОЭСК&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Выполненные работы</span></td>
+<td><span style="font-size: 12pt;">Корректировка рабочей документации. Монтаж 32 км ВОЛС&nbsp;</span></td>
+</tr>
+</tbody>
+</table></div></div></div></div></div></div></div></div></section><section id="section-id-1553601027264" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1"><div id="column-id-1553601027265" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-3"><div id="column-id-1553601027266" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027267" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/foto_obj/17_ucn.jpg" alt=""></div></div></div></div></div></div></div><div class="sppb-col-md-8"><div id="column-id-1553601027268" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1553601027269" class="clearfix" ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><table width="905">
+<tbody>
+<tr>
+<td width="201"><span style="font-size: 18pt;">Проект</span></td>
+<td width="704"><span style="font-size: 18pt;">Устранение цифрового неравенства в РФ</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+<td><span style="font-size: 18pt;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Местоположение</span></td>
+<td><span style="font-size: 12pt;">Саратовская область</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Заказчик</span></td>
+<td><span style="font-size: 12pt;">ПАО &laquo;Ростелеком&raquo;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt;">Выполненные работы</span></td>
+<td><span style="font-size: 12pt;">Монтаж 35 км ВОЛС&nbsp;</span></td>
+</tr>
+</tbody>
+</table></div></div></div></div></div></div></div></div></section>			</div>
+</div>
+</div></div></div></section><footer id="sp-footer"><div class="container"><div class="row"><div id="sp-footer1" class="col-sm-12 col-md-12"><div class="sp-column "><span class="sp-copyright"> © 2019 ООО «И.Т.Р»</span></div></div></div></div></footer>
+        <div class="offcanvas-menu">
+            <a href="#" class="close-offcanvas"><i class="fa fa-remove"></i></a>
+            <div class="offcanvas-inner">
+                                    <p class="alert alert-warning">Please publish modules in <strong>offcanvas</strong> position.</p>
+                            </div>
+        </div>
+    </div>
+        <!-- <p align="center"><a href="http://ltheme.com" target="_blank" title="Free Joomla! template by L.THEME">Free Joomla! template by L.THEME</a></p> -->
+    
+  
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(53032624, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/53032624" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+  
+  
+</body>
+</html>
